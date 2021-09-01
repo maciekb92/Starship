@@ -1,0 +1,19 @@
+{
+  "name": "starship",
+  "version": "1.0.0",
+  "description": "Starship game",
+  "main": "./scripts/Game.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maciekb92/Starship.git"
+  },
+  "author": "Maciej Bojek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maciekb92/Starship/issues"
+  },
+  "homepage": "https://github.com/maciekb92/Starship#readme"
+}
